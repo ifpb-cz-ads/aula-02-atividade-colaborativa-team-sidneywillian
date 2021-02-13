@@ -14,7 +14,7 @@ to intermediário, o bytecode. Esse formato é então interpretado pela JVM.
 comum precisa para executar uma aplicação Java, enquanto o Java Development Kit (JDK) é composto pelo JRE e um conjunto de
 ferramentas úteis ao desenvolvedor Java.
 
-<h1> 3. Experimente salvar o arquivo com um nome diferente do nome da classe,
+<h1> 8. Experimente salvar o arquivo com um nome diferente do nome da classe,
 compile e execute. O que aconteceu? </h1>
 
   Ao declarar o arquivo java com um nome diferente da classe vai haver um erro de compilação. É possivel  usar qualquer nome para  o arquivo apenas quando a classe não for pública. No caso de uma classe pública, não podemos usar um nome de arquivo diferente.
